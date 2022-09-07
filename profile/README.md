@@ -1,4 +1,4 @@
-# Berkeley Seismology Lab (Barbara Romanowicz's group)
+# Global Seismology Research Group (Barbara Romanowicz's group)
 
 The Global Seismology Research Group resides at UC Berkeley, within the Department of Earth and Planetary Science and the Berkeley Seismological Laboratory.
 
