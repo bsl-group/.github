@@ -11,12 +11,12 @@ Our research is supported through a variety of sources, mostly through grants fr
 Deep earth structure and dynamics using seismological tools. Earthquake processes and scaling laws. Real-time estimation of earthquake parameters. Development of modern broadband seismic and geophysical observatories on land and in the oceans. Planetary seismology.
 
 ### Graduate Students
-1. Mrinal Dursun is working with Harriet Lau, and doing his second research project in our group on effects of scattering and earth's hum on the amplitudes of earth's free oscillations 
-1. Yuancong Gu is working with Richard Allen, and doing his second research project in our group on Hunga-Tonga observations at low frequencies 
+1. __Mrinal Dursun__ is working with Harriet Lau, and doing his second research project in our group on effects of scattering and earth's hum on the amplitudes of earth's free oscillations 
+1. __Yuancong Gu__ is working with Richard Allen, and doing his second research project in our group on Hunga-Tonga observations at low frequencies 
 
 ### Post-Doctoral Associates and Researchers
-1. Chao Lyu 
-1. Dan Frost 
-1. Federico Munch 
-1. Li-Wei Chen 
-1. Utpal Kumar
+1. __Chao Lyu__
+1. __Dan Frost__ 
+1. __Federico Munch__ 
+1. __Li-Wei Chen__ 
+1. __Utpal Kumar__ is finalizing the codes and data collection and develop a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
