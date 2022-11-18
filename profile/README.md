@@ -20,4 +20,4 @@ Deep earth structure and dynamics using seismological tools. Earthquake processe
 1. __Dan Frost__ 
 1. __Federico Munch__ 
 1. __Li-Wei Chen__ 
-1. __Utpal Kumar__ is finalizing the codes and data collection and develop a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
+1. __Utpal Kumar__ is finalizing the codes and data collection and developing a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
