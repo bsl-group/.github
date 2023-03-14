@@ -17,7 +17,7 @@ Deep earth structure and dynamics using seismological tools. Earthquake processe
 
 ### Post-Doctoral Associates and Researchers
 1. __Chao Lyu__
-1. __Dan Frost__ 
+1. [__Dan Frost__](https://danielafrost.com/) 
 1. __Li-Wei Chen__ 
-1. __Utpal Kumar__ is finalizing the codes and data collection and developing a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
+1. [__Utpal Kumar__](https://www.earthinversion.com/about-me/) is finalizing the codes and data collection and developing a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
 1. __Dorian Soergel__
