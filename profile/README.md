@@ -11,18 +11,19 @@ Our research is supported through a variety of sources, mostly through grants fr
 Deep earth structure and dynamics using seismological tools. Earthquake processes and scaling laws. Real-time estimation of earthquake parameters. Development of modern broadband seismic and geophysical observatories on land and in the oceans. Planetary seismology.
 
 ### Current Members
-1. __Li-Wei Chen__ 
 1. __Chao Lyu__
 1. [__Utpal Kumar__](https://www.earthinversion.com/about-me/) is finalizing the codes and data collection and developing a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
 1. __Mrinal Dursun__ is working with Harriet Lau, and doing his second research project in our group on effects of scattering and earth's hum on the amplitudes of earth's free oscillations 
 1. __Yuancong Gu__ is working with Richard Allen, and doing his second research project in our group on Hunga-Tonga observations at low frequencies 
 1. __Dorian Soergel__
+1. __Jonathan Wolf__ 
 
 
 ### Adjunct Members
-1. [__Federico Munch__](https://erdw.ethz.ch/en/people/profile.MjIxMzk1.TGlzdC83NzMsOTI0MjA1OTI2.html)
-2. [__Dan Frost__](https://danielafrost.com/) 
-3. [__Sévan Adourian__](https://eps.berkeley.edu/people/sevan-adourian)
-4. [__Huaiyu Yuan__](https://scholar.google.com/citations?user=fHZqrAEAAAAJ&hl=en)
-5. Alex Robson
-6. Haydar Karaoğlu
+1. __Li-Wei Chen__ 
+2. [__Federico Munch__](https://erdw.ethz.ch/en/people/profile.MjIxMzk1.TGlzdC83NzMsOTI0MjA1OTI2.html)
+3. [__Dan Frost__](https://danielafrost.com/) 
+4. [__Sévan Adourian__](https://eps.berkeley.edu/people/sevan-adourian)
+5. [__Huaiyu Yuan__](https://scholar.google.com/citations?user=fHZqrAEAAAAJ&hl=en)
+6. Alex Robson
+7. Haydar Karaoğlu
