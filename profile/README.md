@@ -12,7 +12,7 @@ Deep earth structure and dynamics using seismological tools. Earthquake processe
 
 ### Current Members
 1. __Chao Lyu__
-1. [__Utpal Kumar__](https://www.earthinversion.com/about-me/) is finalizing the codes and data collection and developing a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
+1. [__Utpal Kumar__](https://www.earthinversion.com/about-me/)
 1. __Mrinal Dursun__ is working with Harriet Lau, and doing his second research project in our group on effects of scattering and earth's hum on the amplitudes of earth's free oscillations 
 1. __Yuancong Gu__ is working with Richard Allen, and doing his second research project in our group on Hunga-Tonga observations at low frequencies 
 1. __Dorian Soergel__
